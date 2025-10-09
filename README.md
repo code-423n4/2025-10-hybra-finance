@@ -31,7 +31,7 @@
 
 ## Automated Findings / Publicly Known Issues
 
-Automated findings will be added to this repository **within 24-48 hours** from the contest's launch, and will be considered out-of-scope for the purposes of the contest.
+Automated findings will be added to this repository **within 3-4 days** from the contest's launch, and will be considered out-of-scope for the purposes of the contest.
 
 _Note for C4 wardens: Anything included in this `Automated Findings / Publicly Known Issues` section is considered a publicly known issue and is ineligible for awards._
 
