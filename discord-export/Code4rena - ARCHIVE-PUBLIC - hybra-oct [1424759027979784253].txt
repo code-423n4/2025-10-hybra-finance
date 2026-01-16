@@ -1,0 +1,197 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-PUBLIC / hybra-oct
+==============================================================
+
+[10/06/2025 14:09] kartoonjoy
+👋 Hello and welcome to the $33,000 in USDC **Hybra** audit channel!
+
+📆 Audit opens 10/06/2025 20:00 (20:00 UTC) and runs through 10/16/2025 20:00 (20:00 UTC) (10 days).
+
+ℹ️ This audit includes **deployed code,** and Code4rena's [live code rules](<https://docs.code4rena.com/competitions/live-code-rules>) will be in effect. 
+
+**❗A coded, runnable PoC is required for all High/Medium submissions to this audit.**
+- The audit repo includes a basic PoC template to run the test suite.
+- PoCs **must** use the test suite provided in the audit repo.
+- Your submission will be marked as `Insufficient` if the POC is not runnable and working with the provided test suite.
+- Exception: PoC is optional (though recommended) for wardens with signal ≥ 0.68
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this audit, consider enabling notifications for this channel. 🐺 ⏰
+
+Join the audit: <https://code4rena.com/audits/2025-10-hybra-finance>
+
+{Reactions}
+c4ship (13) 
+
+[10/06/2025 20:00] C4
+🔎 **Got audit-related questions? Here's your roadmap** 
+
+Find the information you need efficiently:
+
+1. Step 1: **Review project documentation** in the audit repo. [Join the audit](<https://code4rena.com/audits/2025-10-hybra-finance>) for access.
+2. Step 2: Use **🤖 Docs Wolf,** C4's documentation bot assistant. Open a private thread, tag `@Docs Wolf`, and ask your question. The bot will make its best attempt to answer based on the codebase and documentation, and link you to relevant resources.
+3. Step 3: If you still need clarification after reviewing the docs, feel free to **ask the Hybra Finance team** directly. From [the audit page](<https://code4rena.com/audits/2025-10-hybra-finance>), join the audit and select the `Q & A` tab.
+
+To ensure sponsors can focus their time on questions that truly need their expertise, please: 
+
+- Reference what you've already checked in the docs
+- Be specific about what you need clarified
+- Use thread replies to keep discussions organized
+
+Good hunting!
+
+{Reactions}
+c4ship (7) 
+
+[10/06/2025 20:06] kartoonjoy
+ℹ️ Please note that the automated findings and the Docs Wolf are both expected to be available tomorrow. Thank you!
+
+
+[10/07/2025 13:23] kartoonjoy
+Update: Docs Wolf is now ready!
+
+
+[10/09/2025 10:16] cloudellie
+GM wardens - automated findings should be available tomorrow (Oct 10). Appreciate your patience.
+
+
+[10/13/2025 09:38] cloudellie
+GM @🐺Wardens - the Hybra Finance audit repo now includes a list of findings identified by [V12](https://v12.zellic.io/), [Zellic](https://zellic.io)'s in-house AI auditing tool. 
+
+[All issues found by V12](https://github.com/code-423n4/2025-10-hybra-finance/blob/main/Hybra-V12-output.md) will be judged as out of scope and ineligible for awards. 
+
+We appreciate your patience while we ironed out some details, and we expect that going forward, we'll be able to supply the V12 findings earlier in the competition.
+
+{Reactions}
+👍 (4) 👎 (2) 
+
+[10/15/2025 04:22] gf_256
+@🐺Wardens For the Hybra Finance contest, we will be awarding any issues that are duped with V12 issues, submitted before V12 issues were publicly released, as if they are duplicates and not OOS. For example, if there is a issue that 1 warden reported before V12 findings were released, it will be awarded as if it was reported by 2 authors (the 1 warden and V12, so two in total). We understand V12 findings were released relatively late into the contest and we want to avoid Wardens feeling that they were unnecessarily punished for their efforts, so we are making an exception here
+
+{Reactions}
+👍 (51) 🫡 (16) ❤️ (19) 💯 (2) 
+
+[10/16/2025 20:02] C4
+**🚨 AUDIT ALERT**
+
+@🐺Wardens The **Hybra Finance** audit is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: The sponsor team and judge will review the findings over the next couple of weeks. Progress through the judging, awarding, and reporting phases can be tracked via [the audit page](<https://code4rena.com/audits/2025-10-hybra-finance>).
+
+{Reactions}
+👍 (13) 💥 (3) 👀 (3) 
+
+[11/06/2025 01:07] itsmetechjay
+🤑 🎉  Awards for **Hybra Finance**:
+
+$5,224.75 USDC » OpaBatyo (@amar, @armormadeofwoe)
+$3,070.38 USDC » @piki
+$2,776.33 USDC » @Alex Zhang
+$2,137.14 USDC » @nonono9234
+$1,574.75 USDC » @ybad
+$1,382.29 USDC » @Hunter
+$1,212.50 USDC » @harry
+$1,211.69 USDC » @Maaly
+$1,210.19 USDC » @Ibukun
+$1,210.19 USDC » @Vivek
+$859.07 USDC » @rayss
+$842.72 USDC » @ZanyBonzy
+$808.24 USDC » @Vagner
+$771.50 USDC » @0xDjango
+$726.77 USDC » @Niffylord
+$524.62 USDC » @ljj
+$524.62 USDC » @JuggerNaut.63
+$524.62 USDC » @Nexarion
+$325.08 USDC » @Nyxaris
+$315.79 USDC » @Sparrow
+$292.96 USDC » @Dee24
+$292.96 USDC » @Olamilekan
+$290.65 USDC » @kk
+$197.78 USDC » @Tkwk
+$155.95 USDC » @EtherEngineer
+$154.45 USDC » @i-am-zcai
+$153.64 USDC » @ibrahimatix0x01
+$152.14 USDC » @ChainShield Team
+$152.14 USDC » @maze
+$152.14 USDC » @hecker
+$152.14 USDC » @Satoshi Nakamoto
+$149.13 USDC » @0x9527
+$36.74 USDC » @mbuba666
+$36.74 USDC » @Kirill @ Nethermind
+$35.93 USDC » @blokfrank
+$34.43 USDC » @Wojack
+$34.43 USDC » @White Rabbit
+$34.43 USDC » @omeiza🪼
+$34.43 USDC » @PotEater
+$34.43 USDC » @Freescore
+$34.43 USDC » @WazeID
+$34.43 USDC » @ChainSentry
+$34.43 USDC » @Rabbit
+$4.95 USDC » @asui
+$3.81 USDC » @silver_eth
+$3.81 USDC » @0xBugSlayer
+$3.81 USDC » @Ck
+$3.81 USDC » @the_haritz
+$2.31 USDC » @luncy
+$2.31 USDC » @Jason
+$2.31 USDC » @Kkkk
+$2.31 USDC » OnyxAudits (@Tigerfrake, @omeiza🪼
+$2.31 USDC » @0xRaz
+$2.31 USDC » @issa
+$2.31 USDC » @kmkm
+$2.31 USDC » @KuwaTakushi
+$2.31 USDC » @Boy2000
+$2.31 USDC » @MuslimETHGuard
+$2.31 USDC » @testnate
+$2.31 USDC » @Albert
+$2.31 USDC » @AuditAgent
+$2.31 USDC » @Ravin
+$2.31 USDC » @sourav_DEV
+$2.31 USDC » @oct0pwn
+$2.31 USDC » @0xnija
+$2.31 USDC » @axelot
+$1.50 USDC » @Rzizah
+$1.50 USDC » @IzuMan
+$1.50 USDC » @Bhaskar
+$1.50 USDC » @zhihan wei
+$1.50 USDC » @CoheeY
+$1.50 USDC » @mingzoox
+$1.50 USDC » @SancyBars
+$1.50 USDC » @0xDemon
+$1.50 USDC » @Almanax
+$1.50 USDC » @MoZi
+$1.50 USDC » @zubyoz
+$1.50 USDC » @Shieldrey
+$1.50 USDC » @Sejin
+$1.50 USDC » @reidner
+$1.50 USDC » @khaye26
+$1.50 USDC » @Kesty Vickky
+
+🏁 Findings summary
+--------------------------------------—
+1 High risk findings
+9 Med risk findings
+932 wardens participated
+
+Top Hunter: OpaBatyo (@amar, @armormadeofwoe)
+Top Gatherer: @piki
+Top QA report: @rayss
+
+Awards will be distributed on Ethereum within the next week. Congratulations all!  💸 💸 💸
+
+⚠️ Awardees, be sure to [complete your tax reporting info](https://docs.code4rena.com/awarding/incentive-model-and-awards/awarding-process#tax-information-for-code4rena-contributors-wardens-judges-etc) if you haven't already. This must be completed within 30 days (i.e. before Friday, 05 December 2025) to receive your award distribution for this audit.
+
+{Reactions}
+c4ship (13) 
+
+[01/09/2026 01:00] C4
+ℹ️ This channel is pending archive.   As a result, any private threads will be permanently deleted 01/17/2026 00:55. Please make sure to grab anything you might need before then.
+
+
+[01/15/2026 18:00] C4
+ℹ️ Reminder: this channel will be deleted after 24 hours.
+
+
+==============================================================
+Exported 11 message(s)
+==============================================================
